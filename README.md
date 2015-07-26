@@ -66,14 +66,16 @@ Esperamos hacer esta lista mas larga con sugerencias. Las sugerencias pueden ser
   	- http://serviciospub.sic.gov.co/~oparra/serv_57/externas/datospatente.php
   	- http://www.sic.gov.co/drupal/base-de-datos
 
-# Quienes?
+# Contributors?
 
-Esta lista inicio en un hackpad, gracias a :
+Esta lista inicio en un hackpad. 
+
+Gracias a :
 
  - [@infrahumano](https://twitter.com/infrahumano)
  - [@Apelaez](https://twitter.com/Apelaez)
  - [@spsaaibi](https://twitter.com/spsaaibi)
  - [@woakas](https://twitter.com/woakas)
  - [@juaneslewin](https://twitter.com/juaneslewin)
- - [@OscarALizarazo](https://twitter.com/OscarALizarazo()
+ - [@OscarALizarazo](https://twitter.com/OscarALizarazo)
  - [@dav009]( https://twitter.com/OscarALizarazo)
