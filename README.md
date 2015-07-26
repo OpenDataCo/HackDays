@@ -16,22 +16,35 @@ Esperamos hacer esta lista mas larga con sugerencias. Las sugerencias pueden ser
 
  #### Politica
 
- - **Electorales**: La Registraduría publica resultados y tiene los de elecciones pasadas
- - **Lista asistencia de Senadores**: La vi en algún momento, scrapeable pero con mucho dolor
+ - **Electorales**: 
+ 	- La Registraduría publica resultados y tiene los de elecciones pasadas
+
+ - **Lista asistencia de Senadores**:
+ 	- La vi en algún momento, scrapeable pero con mucho dolor
 
  #### Gasto Publico
- - **Portal de transparencia económica**: www.pte.gov.co
- - **Vias**: https://monitoreoinvias.com
+ - **Portal de transparencia económica**: 
+ 	-www.pte.gov.co
+
+ - **Vias**: 
+ 	- Monitoreo de Contruccion de vias : https://monitoreoinvias.com
 
  #### Empleos Publicos
 
- - **Empleados**: Están todos en el sigep
- - **Aspirantes**: Para altos cargos, la presidencia saca lista que actualiza diariamente, sacando los ya nombrados o desechados. aspirantes.presidencia.gov.co
+ - **Empleados**: 
+ 	- Están todos en el sigep
+
+ - **Aspirantes**: 
+ 	-Para altos cargos, la presidencia saca lista que actualiza diariamente, sacando los ya nombrados o desechados. aspirantes.presidencia.gov.co
 
  #### Justicia
 
- - **Delitos politicos & Victimas**: http://www.nocheyniebla.org/  (Base de datos civel)
- - **Procesos Judiciales**: http://procesos.ramajudicial.gov.co/consultaprocesos/
+ - **Delitos politicos & Victimas**: 
+ 	- http://www.nocheyniebla.org/  (Base de datos civel)
+
+ - **Procesos Judiciales**: 
+ 	- http://procesos.ramajudicial.gov.co/consultaprocesos/
+
  - **Sentencias de altas cortes**: 
 	- www.corteconstitucional.gov.co
 	- www.consejodeestado.gov.co
