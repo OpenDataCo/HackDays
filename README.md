@@ -5,16 +5,16 @@ Aqui puedes encontrar una lista de todos que serian contribuciones utiles.
 
 Esperamos hacer esta lista mas larga con sugerencias. Las sugerencias pueden ser cualquier actividad, no solo referirse a datasets
 
- ## Data sources
+## Data sources
 
 
- ### Scrapeables
+### Scrapeables
 
  Estan disponibles como servicio online. Pero no hay dump de datos para trabajar eficientemente. 
  Seria util hacer un scraper para la siguiente lista de datasets
 
 
- #### Politica
+#### Politica
 
  - **Electorales**: 
  	- La Registraduría publica resultados y tiene los de elecciones pasadas
