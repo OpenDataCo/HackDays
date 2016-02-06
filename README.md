@@ -11,7 +11,7 @@ Esperamos hacer esta lista mas larga con sugerencias. Las sugerencias pueden ser
 ### Scrapeables
 
  Estan disponibles como servicio online. Pero no hay dump de datos para trabajar eficientemente. 
- Seria util hacer un scraper para la siguiente lista de datasets
+ Seria util solicitar los datos de los siguientes datasets
 
 
 #### Politica
