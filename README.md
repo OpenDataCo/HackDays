@@ -57,9 +57,10 @@ Esperamos hacer esta lista mas larga con sugerencias. Las sugerencias pueden ser
  	- https://www.car.gov.co
 
  - **Datos geográficos**:
- 	- http://www.igac.gov.co/
+ 	- http://www.igac.gov.co/ **NOTA**: los datos geográficos de IGAC no son datos abiertos.
  	- http://lrgseddn3.cr.usgs.gov/
-
+ 	- [Datos de OpenStreetMap - Crisis Humanitarias en Colombia](https://data.hdx.rwlabs.org/organization/hot?q=&ext_page_size=25&sort=score+desc%2C+metadata_modified+desc&groups=col#dataset-filter-start)
+ 	- [Otros extractos de OpenStreetMap](http://planet.osm.org/)
 
  #### Otros
   - **Registro de Solicitudes de Patentes  publicadas en Colombia**: 
